@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m"inital setup"
+git push -f origin master 
+when error tree free
